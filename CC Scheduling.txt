@@ -1,0 +1,7 @@
+CC Scheduling
+New project 
+Package 
+Show in system explorer 
+System Library RC - Properties 
+Select javase 1.8
+src RC buil path- configure build path
